@@ -1,0 +1,1 @@
+This is a web spider designed to detect 404ed links on your page.
